@@ -6,7 +6,7 @@ A Django REST Framework API for managing vehicle maintenance tasks.
 
 - Manage vehicles (create, read, update, delete)
 - Create and track maintenance tasks
-- Filter maintenance tasks by vehicle registration, task type, or status
+- Filter maintenance tasks by vehicle registration
 - RESTful API endpoints with proper validation and error handling
 
 ## Setup Instructions
@@ -21,8 +21,8 @@ A Django REST Framework API for managing vehicle maintenance tasks.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/vehicle-maintenance-api.git
-cd vehicle-maintenance-api
+git clone https://github.com/yourusername/maintenance_system.git
+cd maintenance_system
 ```
 
 2. Create and activate a virtual environment
