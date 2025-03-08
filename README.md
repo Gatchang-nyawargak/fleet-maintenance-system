@@ -277,8 +277,6 @@ Example error response:
 
 The API supports filtering maintenance tasks by:
 - Vehicle registration number
-- Task type
-- Status
 
 Example:
 ```
